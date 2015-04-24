@@ -1,6 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/proc/asound/card0'
 let g:netrw_dirhist_2='/proc/asound/MID'
 let g:netrw_dirhist_3='/home/milo/Projects/Ghosts/Ghosts'
 let g:netrw_dirhist_4='/home/milo/Projects/Ghosts/Ghosts/src/main/res/values'
+let g:netrw_dirhist_5='/home/milo'
+let g:netrw_dirhist_6='/home/milo/neovim-git'
+let g:netrw_dirhist_7='/home/milo/neovim-git/neovim-git'
+let g:netrw_dirhist_8='/home/milo/neovim-git/neovim-git/hooks'
